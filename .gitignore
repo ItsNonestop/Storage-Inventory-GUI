@@ -1,0 +1,31 @@
+# Build output
+/bin/
+/obj/
+/[Bb]uild/
+/[Rr]elease/
+/[Dd]ebug/
+*.pdb
+*.mdb
+*.db
+
+# IDE and user-specific
+.vs/
+.idea/
+*.user
+*.userprefs
+*.suo
+*.cache
+*.sln.docstates
+*.DotSettings.user
+
+# NuGet and restore artifacts
+/packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+project.lock.json
+
+# Logs and temp
+*.log
+Logs/
+[Tt]emp/
