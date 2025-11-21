@@ -1,0 +1,2 @@
+# Storage Inventory GUI (Schedule I - IL2CPP)
+_A MelonLoader mod for Schedule I that uses the keybind F6 by default to open an in game IMGUI window and see every properties storage from anywhere. It automatically pulls storage contents, and groups items by categories (Weed, Meth, Cocaine, Ingredients, Seeds, Tools, Packaging, Other) allowing for easier scanning of properties content from anywhere, making storage management easier._
